@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2d836fd0-9ebc-401e-b150-702b02c4bf16",
+            "Value": {
+                "id": "d1043b95-a1ef-4832-9264-8d3abfba0f66",
+                "resourcePath": "objects\\obj_text_stanley_left_door\\obj_text_stanley_left_door.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "388d5b37-9db3-4f6c-92ba-c50fa63ddda9",
             "Value": {
                 "id": "c1443548-d807-4df0-9c3d-0daeafe49302",
