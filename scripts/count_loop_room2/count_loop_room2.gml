@@ -3,7 +3,7 @@ if (obj_game_controller.has_ending2) {
 }
 
 obj_game_controller.loop_counter_room2++;
-if (obj_game_controller.loop_counter_room2 < 3) {
+if (obj_game_controller.loop_counter_room2 < 2) {
     return;
 }
 
