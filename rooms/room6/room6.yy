@@ -34,7 +34,7 @@
             "grid_x": 16,
             "grid_y": 16,
             "hierarchyFrozen": false,
-            "hierarchyVisible": false,
+            "hierarchyVisible": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -49,7 +49,7 @@
 {"name": "inst_10A2642","id": "d0e1d6d9-a8a2-4903-b869-8a6ede58d621","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_10A2642","objId": "c7fb5119-ab5f-4ce1-973f-837007c9325a","properties": null,"rotation": 0,"scaleX": 10,"scaleY": 1,"mvc": "1.1","x": 112,"y": 80},
 {"name": "inst_2191F523","id": "ad63ded5-b85d-424b-9728-fa028cee5a3d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2191F523","objId": "c7fb5119-ab5f-4ce1-973f-837007c9325a","properties": null,"rotation": 0,"scaleX": 2,"scaleY": 1,"mvc": "1.1","x": 144,"y": 96},
 {"name": "inst_47FDC092","id": "356d90c2-89cf-43f6-b434-98c0c1ef3353","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_47FDC092","objId": "c7fb5119-ab5f-4ce1-973f-837007c9325a","properties": null,"rotation": 0,"scaleX": 3,"scaleY": 1,"mvc": "1.1","x": 272,"y": 96},
-{"name": "inst_20BCFBAB","id": "350c1683-69a0-4778-b67e-31e59324ffef","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_20BCFBAB","objId": "c7fb5119-ab5f-4ce1-973f-837007c9325a","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 128,"y": 176},
+{"name": "inst_20BCFBAB","id": "350c1683-69a0-4778-b67e-31e59324ffef","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_20BCFBAB","objId": "c7fb5119-ab5f-4ce1-973f-837007c9325a","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 64,"y": 96},
 {"name": "inst_6047CA65","id": "080b7da5-f61d-48a9-b252-44c6f71d558c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6047CA65","objId": "c7fb5119-ab5f-4ce1-973f-837007c9325a","properties": null,"rotation": 0,"scaleX": 3,"scaleY": 1,"mvc": "1.1","x": 144,"y": 208}
             ],
             "layers": [
@@ -60,7 +60,7 @@
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
             "userdefined_depth": false,
-            "visible": false
+            "visible": true
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
@@ -125,12 +125,12 @@
                     11,9,10,9,10,9,10,9,10,9,10,9,10,9,10,9,10,9,10,11,
                     11,9,10,9,10,9,10,9,10,9,10,9,10,9,10,9,10,9,10,11,
                     11,9,10,2147483648,2147483648,2147483648,2147483648,9,10,9,10,9,10,9,10,9,10,9,10,11,
-                    11,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,9,10,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,9,10,11,
+                    11,0,2147483648,2147483648,12,2147483648,2147483648,2147483648,2147483648,9,10,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,9,10,11,
                     11,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,11,
                     11,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,11,
                     11,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,11,
                     11,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,11,
-                    11,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,12,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,11,
+                    11,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,11,
                     11,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,11,
                     11,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,11,11,11,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,11,
                     11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,
