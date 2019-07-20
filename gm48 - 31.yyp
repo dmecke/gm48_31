@@ -74,7 +74,7 @@
             "Key": "2d836fd0-9ebc-401e-b150-702b02c4bf16",
             "Value": {
                 "id": "d1043b95-a1ef-4832-9264-8d3abfba0f66",
-                "resourcePath": "objects\\obj_text_stanley_left_door\\obj_text_stanley_left_door.yy",
+                "resourcePath": "objects\\obj_text_stanley\\obj_text_stanley.yy",
                 "resourceType": "GMObject"
             }
         },

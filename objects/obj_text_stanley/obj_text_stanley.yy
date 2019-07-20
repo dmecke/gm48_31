@@ -2,7 +2,7 @@
     "id": "2d836fd0-9ebc-401e-b150-702b02c4bf16",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_text_stanley_left_door",
+    "name": "obj_text_stanley",
     "eventList": [
         {
             "id": "9f7626a4-c32f-46e3-b894-8451d135069d",
