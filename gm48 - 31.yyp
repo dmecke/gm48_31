@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "55097525-092a-4ac7-98cf-f3b3bfbb2f2f",
+            "Value": {
+                "id": "688a8bc7-4126-42ed-8f1a-790e5a9adf3d",
+                "resourcePath": "rooms\\room8\\room8.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "57717c64-2c53-458d-8296-a40116aee8df",
             "Value": {
                 "id": "0f786348-0c8c-4f11-b2cc-815dcc3dbb04",
@@ -135,10 +143,26 @@
             }
         },
         {
+            "Key": "621e5d75-80e4-47a5-8587-c6ca806e4433",
+            "Value": {
+                "id": "c6f7d9ce-7370-4eae-b6b5-d0565ece1461",
+                "resourcePath": "objects\\obj_trigger_ending6\\obj_trigger_ending6.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "67a3c38f-19e5-493c-8f3d-6cbe9da4dfbf",
+            "Value": {
+                "id": "a867776b-f82c-4814-897d-ff95870cecb1",
+                "resourcePath": "objects\\obj_trigger_ending5\\obj_trigger_ending5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6834a1c2-9fe3-4c68-b2bc-bab195d42145",
             "Value": {
                 "id": "fc3543d0-7f36-4c4d-8773-e083256e82ef",
-                "resourcePath": "objects\\obj_switch_red\\obj_switch_red.yy",
+                "resourcePath": "objects\\obj_trigger_ending1\\obj_trigger_ending1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -154,7 +178,7 @@
             "Key": "713c7aa1-29dd-44d6-8cc4-4aabe11031f1",
             "Value": {
                 "id": "a5258409-8781-4229-b2a0-b92b95f4cc0e",
-                "resourcePath": "sprites\\spr_switch_red\\spr_switch_red.yy",
+                "resourcePath": "sprites\\spr_trigger\\spr_trigger.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -172,6 +196,14 @@
                 "id": "74c29c80-5532-42c6-ac89-7560f481123c",
                 "resourcePath": "rooms\\room1\\room1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "758e8419-8dca-4af3-a855-7209f3ca6b46",
+            "Value": {
+                "id": "900be8c7-ce91-4e6a-b198-7fea12369e36",
+                "resourcePath": "objects\\obj_door_blue\\obj_door_blue.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -279,19 +311,19 @@
             }
         },
         {
-            "Key": "ca25782b-bd05-416a-ab39-e210b130643e",
-            "Value": {
-                "id": "9323937a-da4f-430d-9a82-c68766b0b108",
-                "resourcePath": "views\\ca25782b-bd05-416a-ab39-e210b130643e.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "0fed6d75-d23b-4218-9f4e-30ec2ef979c3",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cce9be53-2685-488a-8b0a-c820d79a29b5",
+            "Value": {
+                "id": "db9432e5-8f99-4727-a0ca-1fcda4a453e7",
+                "resourcePath": "scripts\\count_loop_room2\\count_loop_room2.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -307,6 +339,14 @@
             "Value": {
                 "id": "b989e280-3e31-4094-afaf-3c8347a3c125",
                 "resourcePath": "sprites\\spr_collision\\spr_collision.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "df896cfc-e2f6-45e4-80bb-b43117b983f2",
+            "Value": {
+                "id": "02b1c92d-c844-4c69-877b-001240a1c55b",
+                "resourcePath": "sprites\\spr_door_blue\\spr_door_blue.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -384,7 +424,7 @@
         }
     ],
     "script_order": [
-        
+        "cce9be53-2685-488a-8b0a-c820d79a29b5"
     ],
     "tutorial": ""
 }

@@ -2,7 +2,7 @@
     "id": "713c7aa1-29dd-44d6-8cc4-4aabe11031f1",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_switch_red",
+    "name": "spr_trigger",
     "For3D": false,
     "HTile": false,
     "VTile": false,
