@@ -122,7 +122,7 @@
             "Key": "506c2138-986d-4839-b80f-50fbd220756f",
             "Value": {
                 "id": "07dc1751-8b92-4f27-853c-c65543e89df5",
-                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourcePath": "objects\\obj_stanley_wall\\obj_stanley_wall.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -274,7 +274,7 @@
             "Key": "8e65932f-c2ca-4cd1-961e-4a630c978400",
             "Value": {
                 "id": "28c210f4-b0ee-4907-8330-f20a632b23e6",
-                "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
+                "resourcePath": "sprites\\spr_stanley_wall\\spr_stanley_wall.yy",
                 "resourceType": "GMSprite"
             }
         },
