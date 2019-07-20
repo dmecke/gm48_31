@@ -1,1 +1,1 @@
-draw_text_ext_transformed(x, y, text, 18, width * 16, 1, 1, rotation);
+draw_text_with_shadow(x, y, text, c_white, width);
