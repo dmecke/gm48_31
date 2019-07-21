@@ -1,8 +1,8 @@
 {
-    "id": "8308aef8-6d40-4183-a629-ae410352e847",
+    "id": "415efcaa-6cb2-4591-9065-a4ff35fffa97",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_door",
+    "name": "obj_door_light_left",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": true,
-    "spriteId": "c85403c8-c171-4ff7-a0e1-d8a06a9c288b",
+    "spriteId": "7ac18b3a-7c53-4350-8305-8839d1edb431",
     "visible": true
 }
