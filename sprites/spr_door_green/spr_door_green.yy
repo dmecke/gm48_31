@@ -2,11 +2,11 @@
     "id": "df896cfc-e2f6-45e4-80bb-b43117b983f2",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_door_blue",
+    "name": "spr_door_green",
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 15,
+    "bbox_bottom": 3,
     "bbox_left": 0,
     "bbox_right": 15,
     "bbox_top": 0,
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "299066d8-a23e-4e46-9a44-e73f433fe3e4",
+            "id": "8ae01418-e20f-410e-b86c-e18e3460ff69",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "df896cfc-e2f6-45e4-80bb-b43117b983f2",
             "compositeImage": {
-                "id": "5ffde485-121c-42c6-b744-b8bc7ab6532d",
+                "id": "04123a49-5e5c-4aef-bbd1-40b0ed94514e",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "299066d8-a23e-4e46-9a44-e73f433fe3e4",
+                "FrameId": "8ae01418-e20f-410e-b86c-e18e3460ff69",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "64ce56c4-a233-4fe6-af48-0cd787ea9d5b",
+                    "id": "c2bbd850-01c8-41ea-8abc-34a49e8a6143",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "299066d8-a23e-4e46-9a44-e73f433fe3e4",
-                    "LayerId": "a768d8b2-3235-47af-82f6-3ade6e604a42"
+                    "FrameId": "8ae01418-e20f-410e-b86c-e18e3460ff69",
+                    "LayerId": "48aa97a0-4bc2-438c-a3a9-4f3d3419e7f3"
                 }
             ]
         }
@@ -43,7 +43,7 @@
     "height": 16,
     "layers": [
         {
-            "id": "a768d8b2-3235-47af-82f6-3ade6e604a42",
+            "id": "48aa97a0-4bc2-438c-a3a9-4f3d3419e7f3",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "df896cfc-e2f6-45e4-80bb-b43117b983f2",

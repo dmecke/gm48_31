@@ -274,7 +274,7 @@
             "Key": "758e8419-8dca-4af3-a855-7209f3ca6b46",
             "Value": {
                 "id": "900be8c7-ce91-4e6a-b198-7fea12369e36",
-                "resourcePath": "objects\\obj_door_blue\\obj_door_blue.yy",
+                "resourcePath": "objects\\obj_door_green\\obj_door_green.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -482,7 +482,7 @@
             "Key": "df896cfc-e2f6-45e4-80bb-b43117b983f2",
             "Value": {
                 "id": "02b1c92d-c844-4c69-877b-001240a1c55b",
-                "resourcePath": "sprites\\spr_door_blue\\spr_door_blue.yy",
+                "resourcePath": "sprites\\spr_door_green\\spr_door_green.yy",
                 "resourceType": "GMSprite"
             }
         },
